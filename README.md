@@ -1,6 +1,12 @@
-### Hola
+# Bienvenido
 
+### Nombre: Mencia Aramis Oscar
 
+### Ocupacion: Estudiante de la Universidad de la Cuenca de Plata
+
+### Experiencia: Python, PHP, HTML y CSS
+
+### Correo Electronico: AramisMencia@gmail.com
 
 <!--
 **AramisMencia/AramisMencia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
