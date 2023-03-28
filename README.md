@@ -4,7 +4,7 @@
 
 ### Ocupacion: Estudiante de la Universidad de la Cuenca de Plata
 
-### Experiencia: Python, PHP, HTML y CSS
+### Experiencia: Python, Javascript, React, PHP, HTML y CSS
 
 ### Correo Electronico: AramisMencia@gmail.com
 
