@@ -2,9 +2,9 @@
 
 ### Nombre: Mencia Aramis Oscar
 
-### Ocupacion: Estudiante de la Universidad de la Cuenca de Plata
+### Licenciado en Sistemas de Informacion
 
-### Experiencia: Python, Javascript, React, PHP, HTML y CSS
+### Experiencia: Python, Javascript, Typescript, React, Vite, PHP, HTML y CSS
 
 ### Correo Electronico: AramisMencia@gmail.com
 
